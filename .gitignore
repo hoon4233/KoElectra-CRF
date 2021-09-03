@@ -1,0 +1,8 @@
+debug/
+__pycache__/
+/**/checkpoint-[0-9]*/pytorch_model.bin
+/**/cached_naver-ner_koelectra-base-v3-discriminator_128_test
+/**/cached_naver-ner_koelectra-base-v3-discriminator_128_train
+~
+~
+~
