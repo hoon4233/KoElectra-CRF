@@ -1,0 +1,2 @@
+pythonn3 run_ner.py --task naver-ner --config_file koelectra-base-v3.json
+
