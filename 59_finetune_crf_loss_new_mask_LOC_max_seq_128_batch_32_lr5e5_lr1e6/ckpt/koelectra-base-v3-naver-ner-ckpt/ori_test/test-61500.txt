@@ -1,0 +1,12 @@
+  f1 = 0.8839113680154143
+  loss = 0.03500900054219323
+  precision = 0.9057255676209279
+  recall = 0.8631232361241769
+
+              precision    recall  f1-score   support
+
+         LOC       0.91      0.86      0.88      2126
+
+   micro avg       0.91      0.86      0.88      2126
+   macro avg       0.91      0.86      0.88      2126
+weighted avg       0.91      0.86      0.88      2126
